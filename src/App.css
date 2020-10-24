@@ -4,24 +4,25 @@
     "pane board"
     "editor board";
   grid-template-rows: 60px 1fr;
+  grid-template-columns: 1fr 2fr;
   grid-gap: 10px;
   height: 98vh;
 }
 
 .editor {
   grid-area: editor;
-  background-color: #00C2A8;
-  border-radius: 8px;
+  background-color: #845EC2;
+  border-radius: 10px;
 }
 
 .pane {
   grid-area: pane;
-  border-radius: 8px;
+  border-radius: 10px;
   background-color: #00C2A8;
 }
 
 .board {
   grid-area: board;
   background-color: #00C2A8;
-  border-radius: 8px;
+  border-radius: 10px;
 }
