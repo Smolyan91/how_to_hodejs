@@ -1,0 +1,11 @@
+.pane__actions {
+    display: flex;
+}
+
+.pane__action-refresh {
+    background-color: blue;
+}
+
+.pane__action-run {
+    background-color: blue;
+}
