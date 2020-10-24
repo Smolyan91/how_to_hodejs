@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Editor from './components/editor';
+import Editor from './components/editor/index';
 import NodeActiveBoard from './components/nodeActiveBoard';
 import Pane from './components/pane';
 

@@ -3,7 +3,7 @@ import * as React from 'react'
 
 const Pane = () => {
     return (
-        <div>pane</div>
+        <div className="pane"></div>
     )
 }
 
