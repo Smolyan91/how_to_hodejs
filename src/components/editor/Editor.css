@@ -1,0 +1,12 @@
+.editor {
+  grid-area: editor;
+  background-color: #296073;
+  border-radius: 10px;
+  padding: 10px;
+  color: #e4f3fa;
+}
+
+.editor::placeholder {
+  color: #b0a8b9;
+  font-family: Courier;
+}

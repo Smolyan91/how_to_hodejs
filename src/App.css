@@ -9,20 +9,14 @@
   height: 98vh;
 }
 
-.editor {
-  grid-area: editor;
-  background-color: #845EC2;
-  border-radius: 10px;
-}
-
 .pane {
   grid-area: pane;
   border-radius: 10px;
-  background-color: #00C2A8;
+  background-color: #00c2a8;
 }
 
 .board {
   grid-area: board;
-  background-color: #00C2A8;
+  background-color: #00c2a8;
   border-radius: 10px;
 }
